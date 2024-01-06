@@ -1,0 +1,8 @@
+*{
+    font-family: 'DM Sans', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+ul, li{padding: 0;list-style: none;}
+a{text-decoration: none; color: #232323;}
+a:hover{color: #565656;}
